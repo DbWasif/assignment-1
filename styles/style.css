@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* color styles */
+.color-1{
+    color: #4E47FF;
+}
+
+/* navigation styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    height: 150px;
+    align-items: center;
+    margin: 0 auto;
+}
+nav h2{
+    font-size: 34px;
+}
+nav button{
+    font-size: 16px;
+    padding: 12px 36px;
+    color: white;
+    background-color: #4E47FF;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+
+/* banner styles */
+.banner-title{
+    width: 1000px;
+    height: 300px;
+    margin: 200px auto;
+    text-align: center;
+}
+.banner-title h1{
+    font-size: 65px;
+    font-weight: bold;
+}
+.banner-title button{
+    margin-top: 60px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border-radius: 5px;
+    background-color: #4E47FF;
+    color: white;
+    border: none;
+}
