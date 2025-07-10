@@ -9,6 +9,16 @@
     color: #4E47FF;
 }
 
+/* header styles */
+header{
+    width: 100%;
+    height: 800px;
+    background-image: url('../ui/banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 /* navigation styles */
 nav{
     display: flex;
