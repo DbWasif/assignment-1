@@ -185,33 +185,42 @@ nav button{
     color: #B3B3B3;
 }
 
-/* section-4 styles */
-.section-4{
+/* form-section */
+.form-section{
     width: 1140px;
-    height: 696.77px;
-    background-color: #FFFFFF;
-    margin: 137px auto 92px auto;
-    border-radius: 14px;
+    height: 632px;
+    display: flex;
+    justify-content: space-between;
+    gap: 115px;
+    margin: 0 auto;
+    background-color: green;
 }
-.main-titile{
-    font-size: 50px;
+.form-title{
+    width: 50%;
+    background-color: yellow;
+}
+.form{
+    width: 50%;
+    background-color: yellowgreen;
+}
+.form-section h2{
+    font-size: 97px;
     font-weight: bold;
-    text-align: center;
-    padding-top: 71px;
     color: rgba(0, 0, 0, 1);
 }
-.sub-title{
-    font-size: 16px;
-    color: rgba(0, 0, 0, 0.5);
-    text-align: center;
-    padding: 20px 0;
+/* .form label{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 1);
+} */
+.form input, textarea{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    margin: 10px 0 19px 0;
 }
-.section-4 button{
-    background-color: #4E47FF;
-    color: white;
-    padding: 12px 36px;
-    border-radius: 5px;
-    border: none;
+/* .form textarea{
+
+}
+.form button{
+    font-size: 16px;
     font-weight: bold;
-    font-size: 16px;
-}
+} */
