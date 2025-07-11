@@ -184,3 +184,34 @@ nav button{
 .child p{
     color: #B3B3B3;
 }
+
+/* section-4 styles */
+.section-4{
+    width: 1140px;
+    height: 696.77px;
+    background-color: #FFFFFF;
+    margin: 137px auto 92px auto;
+    border-radius: 14px;
+}
+.main-titile{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 71px;
+    color: rgba(0, 0, 0, 1);
+}
+.sub-title{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 20px 0;
+}
+.section-4 button{
+    background-color: #4E47FF;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+}
