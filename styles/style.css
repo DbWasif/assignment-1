@@ -33,8 +33,12 @@
     border: none;
     font-weight: bold;
     font-size: 16px;
+    cursor: pointer;
 }
-
+.button:hover{
+    color: #221D15;
+    background-color: #F0C30C;
+}
 /* body styles */
 body{
     background-color: #F5F8FF;
@@ -69,6 +73,7 @@ nav button{
     font-weight: bold;
     border-radius: 5px;
     border: none;
+    cursor: pointer;
 }
 
 /* banner styles */
@@ -91,6 +96,7 @@ nav button{
     background-color: #4E47FF;
     color: white;
     border: none;
+    cursor: pointer;
 }
 
 /* section -1 styles */
@@ -244,6 +250,7 @@ nav button{
     color: #FFFFFF;
     font-size: 16px;
     background-color: #4E47FF;
+    cursor: pointer;
 }
 .form label{
     font-size: 18px;
