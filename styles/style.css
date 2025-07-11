@@ -1,4 +1,19 @@
 
+/* raleway */
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: 700;
+}
+
+/* inter */
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: 900;
+}
+
 *{
     margin: 0;
     padding: 0;
