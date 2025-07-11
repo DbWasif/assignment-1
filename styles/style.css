@@ -193,34 +193,44 @@ nav button{
     justify-content: space-between;
     gap: 115px;
     margin: 0 auto;
-    background-color: green;
 }
 .form-title{
     width: 50%;
-    background-color: yellow;
+    margin: 200px 0;
 }
 .form{
     width: 50%;
-    background-color: yellowgreen;
+    padding-top: 71px;
 }
 .form-section h2{
     font-size: 97px;
     font-weight: bold;
     color: rgba(0, 0, 0, 1);
 }
-/* .form label{
-    font-size: 18px;
-    color: rgba(0, 0, 0, 1);
-} */
 .form input, textarea{
     font-size: 20px;
     color: rgba(0, 0, 0, 1);
     margin: 10px 0 19px 0;
+    padding: 20px 0 20px 32px;
+    border-radius: 10px;
+    border: none;
 }
-/* .form textarea{
-
+.form textarea{
+    padding-bottom: 85px;
+}
+.form input, textarea{
+    width: 497px;
 }
 .form button{
+    width: 100%;
+    padding: 19px 201px;
+    border: none;
+    border-radius: 10px;
+    color: #FFFFFF;
     font-size: 16px;
-    font-weight: bold;
-} */
+    background-color: #4E47FF;
+}
+.form label{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 1);
+}
