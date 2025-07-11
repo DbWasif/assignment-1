@@ -34,8 +34,8 @@ header{
 nav{
     display: flex;
     justify-content: space-between;
-    width: 1440px;
-    height: 150px;
+    width: 1140px;
+    height: 151px;
     align-items: center;
     margin: 0 auto;
 }
@@ -54,9 +54,9 @@ nav button{
 
 /* banner styles */
 .banner-title{
-    width: 1000px;
-    height: 300px;
-    margin: 200px auto;
+    width: 905px;
+    height: 237px;
+    margin: 309px 267.5px 152px 267.5px;
     text-align: center;
 }
 .banner-title h1{
