@@ -132,3 +132,55 @@ nav button{
     justify-content: space-around;
     padding: 40px auto 50px auto;
 }
+
+/* section-3 styles */
+.section-3{
+    width: 1140px;
+    height: 342px;
+    margin: 146px auto 137px auto;
+}
+.section-3-parent{
+    display: flex;
+    gap: 20px;
+    padding: 0 24px;
+    margin: 50px auto 137px auto;
+}
+.star-icon{
+    color: #FFB805;
+}
+.section-3 h2{
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+    color: #252432;
+}
+.main-parent{
+    width: 366.67px;
+    height: 230px;
+    padding: 24px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+}
+.main-parent p{
+    padding: 8px auto 24px auto;
+    color: #1E1E1E;
+}
+.main-parent img{
+    border-radius: 50%;
+}
+.last-container{
+    display: flex;
+    gap: 6px;
+    margin: 24px 0;
+}
+.main-parent h3{
+    font-size: 24px;
+    color: #1E1E1E;
+    padding-top: 24px;
+}
+.child h4{
+    color: #757575;
+}
+.child p{
+    color: #B3B3B3;
+}
